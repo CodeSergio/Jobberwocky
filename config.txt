@@ -1,0 +1,6 @@
+[config]
+job_dataset=jobpostings.json
+alert_dataset=alerts.json
+external_api=http://localhost:8081/jobs?name=
+sender_address=jobberwocky.alerts@gmail.com
+sender_pass=SIETEsiete7

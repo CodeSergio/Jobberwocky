@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Jr Java Developer",
+        "salary": 24000,
+        "country": "Argentina",
+        "skills": [
+            "Java",
+            "OOP"
+        ]
+    },
+    {
+        "name": "Jr Python Developer",
+        "salary": 100000,
+        "country": "Argentina",
+        "skills": [
+            "Python",
+            "Vue.js"
+        ]
+    },
+    {
+        "name": "SSr Java Developer",
+        "salary": 34000,
+        "country": "Germany",
+        "skills": [
+            "Java",
+            "OOP",
+            "Design Patterns"
+        ]
+    },
+    {
+        "name": "Sr Java Developer",
+        "salary": 44000,
+        "country": "Chile",
+        "skills": [
+            "Java",
+            "OOP",
+            "Design Patterns"
+        ]
+    },
+    {
+        "name": "Frontend developer jr",
+        "salary": 1000,
+        "country": "Paraguay",
+        "skills": [
+            "Vue.js"
+        ]
+    },
+    {
+        "name": "Software developer Ssr. Cobol",
+        "salary": 100000,
+        "country": "Mexico",
+        "skills": [
+            "Go",
+            "microservices"
+        ]
+    },
+    {
+        "name": "Software developer Ssr. Golang",
+        "salary": 100000,
+        "country": "Mexico",
+        "skills": [
+            "Go",
+            "microservices"
+        ]
+    },
+    {
+        "name": "Software developer Ssr. golang",
+        "salary": 100000,
+        "country": "Spain",
+        "skills": [
+            "Go",
+            "microservices"
+        ]
+    },
+    {
+        "name": "Software developer Ssr. golang",
+        "salary": 100000,
+        "country": "Spain",
+        "skills": [
+            "Go",
+            "microservices"
+        ]
+    },
+    {
+        "name": "Software developer Ssr. Golang",
+        "salary": 100000,
+        "country": "Portugal",
+        "skills": [
+            "Go",
+            "microservices"
+        ]
+    },
+    {
+        "name": "Software developer Ssr. Python",
+        "salary": 100000,
+        "country": "Portugal",
+        "skills": [
+            "Go",
+            "microservices"
+        ]
+    },
+    {
+        "name": "Golang Dev Sr",
+        "salary": 1000000,
+        "country": "Chile",
+        "skills": [
+            "Python",
+            "Flask",
+            "C++"
+        ]
+    },
+    {
+        "name": "Javascript Dev jr",
+        "salary": 90000,
+        "country": "Argentina",
+        "skills": [
+            "PHP",
+            "HTTPS"
+        ]
+    },
+    {
+        "name": "Python developer Ssr.",
+        "salary": 550000,
+        "country": "Chile",
+        "skills": [
+            "Python",
+            "Flask"
+        ]
+    }
+]
