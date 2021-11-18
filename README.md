@@ -25,6 +25,11 @@ $ cd jobberwocky-extra-source
 $ docker build . -t avatureexternaljobs
 $ docker run -p 8081:8080 
 ```
+## How to run the webserver:
+```bash
+$ cd jobberwocky
+$ uvicorn main:app --host 0.0.0.0 --port 8080 --reload
+```
 ## Swagger
 http://0.0.0.0:8080/ \
 This is the swagger documentation of this set of APIs, you can test the APIs here.
@@ -147,3 +152,4 @@ Inserts a new jobposting in the jobberwocky's internal dataset
 
 http://0.0.0.0:8080/insertalert/ \
 Inserts a subscription to receive email alerts on new jobpostings based on a certain term 
+
