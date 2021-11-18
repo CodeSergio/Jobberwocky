@@ -5,8 +5,8 @@
 $ mkdir jobberwocky
 $ cd jobberwocky
 $ py -m venv venv 
-$ pip install -r requirements.txt
 $ venv Scripts\activate.bat
+$ pip install -r requirements.txt
 $ git clone https://github.com/avatureassessment/jobberwocky-extra-source.git
 $ cd jobberwocky-extra-source
 $ docker build . -t avatureexternaljobs
@@ -18,8 +18,8 @@ $ docker run -p 8081:8080
 $ mkdir jobberwocky
 $ cd jobberwocky
 $ python -m venv venv
-$ pip install -r requirements.txt
 $ source venv/bin/activate
+$ pip install -r requirements.txt
 $ git clone https://github.com/avatureassessment/jobberwocky-extra-source.git
 $ cd jobberwocky-extra-source
 $ docker build . -t avatureexternaljobs
